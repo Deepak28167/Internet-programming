@@ -1,0 +1,65 @@
+<!-- index.html (Home Page) -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Application Website</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to our Job Application Website</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="director-login.html">Director Login</a></li>
+            <li><a href="user-login.html">User Login</a></li>
+            <li><a href="admin-login.html">Admin Login</a></li>
+        </ul>
+    </nav>
+    <section>
+        <h2>Key Features:</h2>
+        <ul>
+            <li>Browse through vacancy details</li>
+            <li>Apply for jobs online</li>
+            <li>Filter and search for vacancies</li>
+            <li>Daily updates via notifications</li>
+            <!-- Add other features as needed -->
+        </ul>
+    </section>
+    <footer>
+        <p>&copy; 2023 Job Application Website</p>
+    </footer>
+</body>
+</html>
+
+<!-- director-login.html -->
+<!-- Similar structure for other pages -->
+
+<!-- user-login.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Login</title>
+</head>
+<body>
+    <header>
+        <h1>User Login</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="director-login.html">Director Login</a></li>
+            <li><a href="user-login.html">User Login</a></li>
+            <li><a href="admin-login.html">Admin Login</a></li>
+        </ul>
+    </nav>
+    <section>
+        <!-- Add user login functionality here -->
+    </section>
+    <footer>
+        <p>&copy; 2023 Job Application Website</p>
+    </footer>
+</body>
+</html>
