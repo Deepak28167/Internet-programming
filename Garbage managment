@@ -1,0 +1,65 @@
+<!-- index.html (Home Page) -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Garbage Management System</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to our Garbage Management System</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="admin-login.html">Admin Login</a></li>
+            <li><a href="public-login.html">Public Login</a></li>
+            <li><a href="driver-login.html">Driver Login</a></li>
+        </ul>
+    </nav>
+    <section>
+        <h2>Key Features:</h2>
+        <ul>
+            <li>Solid waste management (segregation, collection, and transportation)</li>
+            <li>Data analysis and display on dashboards</li>
+            <li>Route generation for garbage trucks</li>
+            <li>Complaint registration and tracking</li>
+            <!-- Add other features as needed -->
+        </ul>
+    </section>
+    <footer>
+        <p>&copy; 2023 Garbage Management System</p>
+    </footer>
+</body>
+</html>
+
+<!-- admin-login.html -->
+<!-- Similar structure for other pages -->
+
+<!-- public-login.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Public Login</title>
+</head>
+<body>
+    <header>
+        <h1>Public Login</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="admin-login.html">Admin Login</a></li>
+            <li><a href="public-login.html">Public Login</a></li>
+            <li><a href="driver-login.html">Driver Login</a></li>
+        </ul>
+    </nav>
+    <section>
+        <!-- Add public login functionality here -->
+    </section>
+    <footer>
+        <p>&copy; 2023 Garbage Management System</p>
+    </footer>
+</body>
+</html>
