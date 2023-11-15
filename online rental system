@@ -1,0 +1,70 @@
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Online Vehicle Rental System</title>
+</head>
+<body>
+  <h1>Welcome to the Online Vehicle Rental System</h1>
+  
+  <!-- Search Module -->
+  <form>
+    <input type="text" placeholder="Search for a vehicle">
+    <button type="submit">Search</button>
+  </form>
+  
+  <!-- Appointment Booking -->
+  <form>
+    <input type="text" placeholder="Name">
+    <input type="text" placeholder="Customer No">
+    <input type="text" placeholder="Address">
+    <select>
+      <option value="Car">Car</option>
+      <option value="Motorcycle">Motorcycle</option>
+      <option value="Truck">Truck</option>
+    </select>
+    <input type="datetime-local" placeholder="Select a date and time">
+    <button type="submit">Book Appointment</button>
+  </form>
+  
+  <!-- Past Appointment Management -->
+  <h2>Past Appointments</h2>
+  <ul>
+    <li>Appointment 1</li>
+    <li>Appointment 2</li>
+    <li>Appointment 3</li>
+  </ul>
+  
+  <!-- Reviews Admin -->
+  <h2>Reviews Admin</h2>
+  <ul>
+    <li>Review 1</li>
+    <li>Review 2</li>
+    <li>Review 3</li>
+  </ul>
+  
+  <!-- Login -->
+  <form>
+    <input type="text" placeholder="Username">
+    <input type="password" placeholder="Password">
+    <button type="submit">Login</button>
+  </form>
+  
+  <!-- Add Vehicle -->
+  <form>
+    <input type="text" placeholder="Vehicle Type">
+    <input type="text" placeholder="Price">
+    <button type="submit">Add Vehicle</button>
+  </form>
+  
+  <!-- Manage Vehicle Details -->
+  <h2>Manage Vehicle Details</h2>
+  <ul>
+    <li>Vehicle 1</li>
+    <li>Vehicle 2</li>
+    <li>Vehicle 3</li>
+  </ul>
+  
+  <!-- Manage Booking Details -->
+  <h2>Manage Booking Details</h2>
